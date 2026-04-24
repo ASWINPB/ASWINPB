@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aswin PB</h1>
 
 <h3 align="center">
-🚀 Python & Django Developer | AI Enthusiast | MCA Student
+🚀 Python & Django Developer | AI Enthusiast | MCA Student | Php Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Django+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Django+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Learner;PhP+Developer" />
 </p>
 
 <p align="center">
@@ -21,8 +21,7 @@
 ## 🚀 About Me
 
 * 🎓 MCA Student at Vidya Academy of Science and Technology
-* 💼 Python Developer Trainee @ Altos Technologies
-* 🤖 Interested in AI, ML & Full Stack Development
+* 🤖 Interested in AI, ML & Full Stack Development,Php web Development
 * 💡 Love building real-world applications
 * 📍 Thrissur, Kerala
 
@@ -32,7 +31,7 @@
 
 📧 [aswinpb100@gmail.com](mailto:aswinpb100@gmail.com)
 
-🔗 https://linkedin.com/in/aswin-pb-281a3a276
+🔗 https://linkedin.com/in/aswinpb100
 
 </td>
 
@@ -102,6 +101,7 @@
 
 ## ⚡ Fun Fact
 
-🚀 I enjoy building AI-powered systems and solving real-world problems!
+🚀 I love to create attractive webpages and enjoy building AI-powered systems and solving real-world problems!
+
 
 
