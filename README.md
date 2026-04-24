@@ -1,30 +1,69 @@
 # Hi 👋, I'm Aswin PB
 
-### 💻 A passionate developer from India
+### 💻 Python & Django Developer | MCA Student | AI Enthusiast 🇮🇳
 
-- 🌱 I’m currently learning Full Stack Development
-- 💬 Ask me about Python, Web Development
-- 📫 Reach me at: yourmail@gmail.com
+![Profile views](https://komarev.com/ghpvc/?username=aswinpb\&label=Profile%20views\&color=0e75b6\&style=flat)
 
-## 🔗 Connect with me:
-[LinkedIn](your-link) | [Instagram](your-link)
+---
 
-## ⚡ Skills:
-- HTML, CSS, JavaScript
-- Python, Django
-- Git & GitHub
+## 🚀 About Me
 
-<!--
-**ASWINPB/ASWINPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 MCA Student at Vidya Academy of Science and Technology
+* 💼 Former Python Developer Trainee at Altos Technologies
+* 🌱 Currently exploring AI, Machine Learning & Full Stack Development
+* 💡 Passionate about building real-world web applications
+* 📍 Thrissur, Kerala
+* 
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+---
+## 📊 GitHub Stats
+
+![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aswinpb\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aswinpb\&theme=tokyonight)
+
+---
+
+## 📌 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinpb\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+📧 [aswinpb100@gmail.com](mailto:aswinpb100@gmail.com)
+🔗 https://linkedin.com/in/aswinpb100
+
+---
+
+## ⚡ Fun Fact
+
+🚀 I enjoy building AI-powered systems and solving real-world problems using technology!
