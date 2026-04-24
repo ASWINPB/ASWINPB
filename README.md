@@ -1,22 +1,58 @@
-# Hi 👋, I'm Aswin PB
+<h1 align="center">Hi 👋, I'm Aswin PB</h1>
 
-### 💻 Python & Django Developer | MCA Student | AI Enthusiast 🇮🇳
+<h3 align="center">
+🚀 Python & Django Developer | AI Enthusiast | MCA Student
+</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=aswinpb\&label=Profile%20views\&color=0e75b6\&style=flat)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Django+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Learner" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aswinpb&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
+
+<table>
+<tr>
+<td width="55%">
 
 ## 🚀 About Me
 
 * 🎓 MCA Student at Vidya Academy of Science and Technology
-* 💼 Former Python Developer Trainee at Altos Technologies
-* 🌱 Currently exploring AI, Machine Learning & Full Stack Development
-* 💡 Passionate about building real-world web applications
+* 💼 Python Developer Trainee @ Altos Technologies
+* 🤖 Interested in AI, ML & Full Stack Development
+* 💡 Love building real-world applications
 * 📍 Thrissur, Kerala
-* 
+
+---
+
+## 🌐 Connect with Me
+
+📧 [aswinpb100@gmail.com](mailto:aswinpb100@gmail.com)
+
+🔗 https://linkedin.com/in/aswin-pb-281a3a276
+
+</td>
+
+<td width="45%">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,js,html,css,php,mysql,sqlite,git,github" />
+
+</p>
 
 ### 👨‍💻 Programming
 
@@ -31,7 +67,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
 
 ### 🗄️ Database
 
@@ -39,31 +74,34 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
 ---
+
 ## 📊 GitHub Stats
 
-![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aswinpb\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aswinpb\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aswinpb&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinpb&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📌 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinpb\&layout=compact\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinpb&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
+## 🐍 Contribution Snake
 
-📧 [aswinpb100@gmail.com](mailto:aswinpb100@gmail.com)
-🔗 https://linkedin.com/in/aswinpb100
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-🚀 I enjoy building AI-powered systems and solving real-world problems using technology!
+🚀 I enjoy building AI-powered systems and solving real-world problems!
+
+
