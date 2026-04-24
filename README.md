@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Aswin PB
+
+### 💻 A passionate developer from India
+
+- 🌱 I’m currently learning Full Stack Development
+- 💬 Ask me about Python, Web Development
+- 📫 Reach me at: yourmail@gmail.com
+
+## 🔗 Connect with me:
+[LinkedIn](your-link) | [Instagram](your-link)
+
+## ⚡ Skills:
+- HTML, CSS, JavaScript
+- Python, Django
+- Git & GitHub
 
 <!--
 **ASWINPB/ASWINPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
