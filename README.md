@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswin PB</h1>
 
 <h3 align="center">
-🚀 Python & Django Developer | AI Enthusiast | MCA Student | Php Developer
+🚀 Python & Django Developer | AI Enthusiast | MCA Graduate | Php Developer
 </h3>
 
 <p align="center">
